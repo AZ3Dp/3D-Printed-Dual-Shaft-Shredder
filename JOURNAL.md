@@ -6,14 +6,15 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **3D Printed Dual Shaft Shredder, V1**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/170).
-
-
 ## 10/19/2025 - Planning the Dual Shaft Shredder  
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQ2MCwicHVyIjoiYmxvYl9pZCJ9fQ==--2177c6ecac91d23475ba764393fe4e02a9436e85/image.png)
 After doing some research, it seems that dual-shaft shredders will have an advantage over single-shaft shredders in the sense that dual-shaft shredders will give off smaller, more uniform shreds. However, the design of dual shaft shredders is more complex, since there are two shafts - twice as many moving parts (blades, washers, shafts), and the necesity to transmit the rotation using gears.
 Some helpful sources mentioned how different gear ratios will enable better shearing, so I think I can make multiple gear configurations in CAD. (1:1 and 3:2 gear ratios)
   
+
+## 11/3/2025 - Created First Base  
+
+![Screenshot 2025-11-03 at 9.21.00 AM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA3NywicHVyIjoiYmxvYl9pZCJ9fQ==--684dc7411ef2989c1a81b25311d09b2c2cee1b07/Screenshot%202025-11-03%20at%209.21.00%E2%80%AFAM.png)
+So I do have some experience from the first shredder I made, so this went by a lot faster. The base is built to be extra chunky to take advantage of 3D printing. I plan to manufacture this shredder with m3 screws and nuts instead of m5, since I believe that more smaller fasteners can be stronger than fewer, larger fasteners.  
 
