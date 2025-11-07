@@ -18,3 +18,9 @@ Some helpful sources mentioned how different gear ratios will enable better shea
 ![Screenshot 2025-11-03 at 9.21.00 AM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA3NywicHVyIjoiYmxvYl9pZCJ9fQ==--684dc7411ef2989c1a81b25311d09b2c2cee1b07/Screenshot%202025-11-03%20at%209.21.00%E2%80%AFAM.png)
 So I do have some experience from the first shredder I made, so this went by a lot faster. The base is built to be extra chunky to take advantage of 3D printing. I plan to manufacture this shredder with m3 screws and nuts instead of m5, since I believe that more smaller fasteners can be stronger than fewer, larger fasteners.  
 
+## 11/6/2025 - More CAD Work - Blades + Shaft + Gears  
+
+![Screenshot 2025-11-06 at 9.08.00 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTA0NSwicHVyIjoiYmxvYl9pZCJ9fQ==--7d0b929b28aeb7b54ae4cc0a894543b36cffd224/Screenshot%202025-11-06%20at%209.08.00%E2%80%AFPM.png)
+![Screenshot 2025-11-06 at 9.08.11 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTA0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--717a4b1d3573731d618f8cfc5cf25db69fc2dbdd/Screenshot%202025-11-06%20at%209.08.11%E2%80%AFPM.png)
+Today, I did some more modeling work on the dual shaft shredder. I created custom shaft collars to secure the shafts, and I also created herringbone gears. I also made the framework for the blades.  
+
