@@ -24,3 +24,8 @@ So I do have some experience from the first shredder I made, so this went by a l
 ![Screenshot 2025-11-06 at 9.08.11 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTA0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--717a4b1d3573731d618f8cfc5cf25db69fc2dbdd/Screenshot%202025-11-06%20at%209.08.11%E2%80%AFPM.png)
 Today, I did some more modeling work on the dual shaft shredder. I created custom shaft collars to secure the shafts, and I also created herringbone gears. I also made the framework for the blades.  
 
+## 11/9/2025 - Shredder Coming to Life  
+
+![Screenshot 2025-11-09 at 11.51.01 AM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTc5MSwicHVyIjoiYmxvYl9pZCJ9fQ==--4ee613e1fe50b2b6625662f8ec7f914b852cd86e/Screenshot%202025-11-09%20at%2011.51.01%E2%80%AFAM.png)![Screenshot 2025-11-09 at 11.50.54 AM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTc5MiwicHVyIjoiYmxvYl9pZCJ9fQ==--1067b1b09f39746fe93b9d38619c30e197ace0e9/Screenshot%202025-11-09%20at%2011.50.54%E2%80%AFAM.png)
+Did a lot of work in CAD, and the shredder seems to be getting closer and closer to the final goal! I decided to make the blades 5 toothed, a good balance of bite and grinding. I also modeled in the the hopper (safety first!). Lastly, I made the side wall blade cleaners. These should prevent the plastic from building up in between the blades.  
+
