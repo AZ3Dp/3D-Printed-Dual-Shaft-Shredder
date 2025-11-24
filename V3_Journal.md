@@ -1,4 +1,4 @@
-## [Some Brush-ups] - 2025-11-24
+# [Some Brush-ups] - 2025-11-24
 Made some modifications to the already "polished" 3D shredder. Looking to improve user experience during assembly
 ## Added
 N/A
