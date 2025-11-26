@@ -1,3 +1,16 @@
+# [CAD Fixes] - 2025-11-26
+
+## Added
+Chamfers to the base
+
+## Changed
+
+## Fixed
+Changed m3 nut slots to take in parameter "Tolerance"
+
+## Future Notes & Ideas
+
+
 # [Some Brush-ups] - 2025-11-24
 Made some modifications to the already "polished" 3D shredder. Looking to improve user experience during assembly
 ## Added
