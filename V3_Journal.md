@@ -1,3 +1,12 @@
+# [Tolerance Change] - 2025-12-01
+
+## Changed
+The anvil-rotor clearance between the blades (of one side) and the washers (of the other side) was lowered. This should help with shearing the material. This was attained by increasing the diameter of the washers.
+<img width="530" height="459" alt="Screenshot 2025-12-01 at 8 31 44 AM" src="https://github.com/user-attachments/assets/4ef74c23-538f-44c1-9322-2292d9f6096e" />
+
+## Future Notes & Ideas
+I think it's about time to start publishing and sorting everything together.
+
 # [CAD Fixes] - 2025-11-26
 
 ## Added
