@@ -1,3 +1,11 @@
+# [Parametric Gearbox for Torque Multiplication] - 2025-12-20
+## Added
+A parametric simple gearbox was added so that the hand-crank could have more torque!
+<img width="1260" height="661" alt="Screenshot 2025-12-20 142952" src="https://github.com/user-attachments/assets/249365a1-64ec-440e-a6fa-8ebfab44c840" />
+
+## Future Notes & Ideas
+Almost done yay!
+
 # [Tolerance Change] - 2025-12-01
 
 ## Changed
