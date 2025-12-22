@@ -1,3 +1,9 @@
+# [Brief Log/Update] - 2025-12-22
+So I assembled the gearbox that was integrated into the shredder. It "ran" (spinning the input gear would make the output gear spin), but the gears ended up cracking and breaking. I will attempt to combat this with a plethora of strategies!
+
+## Future Notes & Ideas
+Will a) reprint the gears with strong settings b) update and enhance the design c) get the gears manufactured in metal
+
 # [Parametric Gearbox for Torque Multiplication] - 2025-12-20
 ## Added
 A parametric simple gearbox was added so that the hand-crank could have more torque!
