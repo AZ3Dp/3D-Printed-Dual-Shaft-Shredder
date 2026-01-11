@@ -1,3 +1,10 @@
+# [Brief Log/Update] - 2026-01-11
+<img width="1002" height="661" alt="Screenshot 2026-01-11 140726" src="https://github.com/user-attachments/assets/b3b7d173-ec2b-4870-a79b-49270f329fca" />
+Made a lot of anti-warping measures on the large base pieces.
+
+## Future Notes & Ideas
+I think that the gears towards the end of the gearbox experience high torque - maybe we implement various shafts, ascending in strength? Like the shaft that is towards the crank end can be weaker (3D printed), and the gears towards the shredder will have 2020 aluminum shafts. Or, I could just go with the traditional gearbox as seen in Let's Print YT where the gears are all on a single shaft. Maybe that would be better. Wait, I could use the 2020 extrusions as shafts!!!
+
 # [Brief Log/Update] - 2025-12-22
 So I assembled the gearbox that was integrated into the shredder. It "ran" (spinning the input gear would make the output gear spin), but the gears ended up cracking and breaking. I will attempt to combat this with a plethora of strategies!
 
