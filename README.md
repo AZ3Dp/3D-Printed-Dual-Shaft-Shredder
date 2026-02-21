@@ -7,3 +7,9 @@ Shredders play a critical role in modern material management because they change
 
 ## The Shredder
 Well, it's pretty simple. The shredder is spun, whether it's hand cranked or powered by a motor to crush material.
+<img width="745" height="599" alt="image" src="https://github.com/user-attachments/assets/9c5db5fb-a5be-4f1e-8e2c-7f99d5f2e04a" />
+<img width="865" height="624" alt="image" src="https://github.com/user-attachments/assets/22d36d0f-3a83-418c-917a-4caf895a4d90" />
+<img width="981" height="650" alt="image" src="https://github.com/user-attachments/assets/019a094c-2110-497e-b801-724bf29bdf5c" />
+<img width="698" height="519" alt="image" src="https://github.com/user-attachments/assets/98ea348f-26d0-4e5c-9e15-ee40e2569ef4" />
+
+
