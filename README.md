@@ -13,4 +13,5 @@ Well, it's pretty simple. The shredder is spun, whether it's hand cranked or pow
 <img width="981" height="650" alt="image" src="https://github.com/user-attachments/assets/019a094c-2110-497e-b801-724bf29bdf5c" />
 <img width="698" height="519" alt="image" src="https://github.com/user-attachments/assets/98ea348f-26d0-4e5c-9e15-ee40e2569ef4" />
 
+## Shredder in Action
 
