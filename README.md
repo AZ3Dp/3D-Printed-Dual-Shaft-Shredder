@@ -14,4 +14,9 @@ Well, it's pretty simple. The shredder is spun, whether it's hand cranked or pow
 <img width="698" height="519" alt="image" src="https://github.com/user-attachments/assets/98ea348f-26d0-4e5c-9e15-ee40e2569ef4" />
 
 ## Shredder in Action
+![LibreShred Lite (4)](https://github.com/user-attachments/assets/efb63eb4-bb1e-40c1-91c1-5a556ee10786)
+![LibreShred Lite (3)](https://github.com/user-attachments/assets/ae9279a4-3c9b-4c81-b8ac-08f2b14937ad)
+![LibreShred Lite (2)](https://github.com/user-attachments/assets/996265ba-9d7b-47da-94f0-73ae0d11e881)
+![LibreShred Lite (1)](https://github.com/user-attachments/assets/b1710cd8-0571-4492-b88f-938ac941c554)
+
 
